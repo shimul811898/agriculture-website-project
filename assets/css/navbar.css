@@ -1,0 +1,132 @@
+/* ===== TOP BAR ===== */
+.top-bar {
+    background: #41A745;
+    color: white;
+    padding: 6px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-family: "Manrope", sans-serif;
+    ;
+}
+
+.top-left span {
+    margin-right: 25px;
+}
+
+.top-right i {
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #222;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.nav-links a.active,
+.nav-links a:hover {
+    color: #41A745;
+    font-weight: bold;
+}
+
+.nav-icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.cart {
+    position: relative;
+}
+
+.cart span {
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    background: #41A745;
+    color: white;
+    font-size: 12px;
+    padding: 2px 5px;
+    border-radius: 50%;
+}
+
+.menu-btn {
+    display: none;
+    cursor: pointer;
+}
+
+/* ===== MOBILE MENU ===== */
+.mobile-menu {
+    display: none;
+    flex-direction: column;
+    background: white;
+    padding: 15px 40px;
+    gap: 15px;
+    border-top: 1px solid #eee;
+}
+
+.mobile-menu a {
+    text-decoration: none;
+    color: #222;
+    font-size: 17px;
+    text-align: center;
+}
+
+.mobile-menu a:hover {
+    color: #41A745;
+}
+
+.mobile-menu.open {
+    display: flex;
+}
+#footer-color{
+    color: #ffffff;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 992px) {
+    .nav-links {
+        display: none;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+}
+
+@media (max-width: 600px) {
+    .top-bar {
+        flex-direction: column;
+        text-align: center;
+        gap: 5px;
+        padding: 10px 20px;
+    }
+
+    .navbar {
+        padding: 15px 20px;
+    }
+}

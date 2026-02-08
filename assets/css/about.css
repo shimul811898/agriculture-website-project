@@ -1,0 +1,290 @@
+.market {
+    height: 603.19px;
+    width: 1200px;
+    margin-top: 120px;
+    gap: 50px;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 322px;
+}
+
+.writting {
+    height: 603.19px;
+    width: 600px;
+
+}
+
+.pra-1 {
+    height: 36px;
+    width: 570px;
+    font-family: "Covered By Your Grace", cursive;
+    font-style: normal;
+    color: #EEC044;
+
+}
+
+h1 {
+    margin-top: -36px;
+    height: 115.19px;
+    width: 570px;
+    font-size: 50px;
+
+}
+
+.pra-2 {
+    margin-top: 80px;
+    color: #4BAF47;
+
+
+}
+
+.pra-3 {
+    color: #878680;
+    width: 570px;
+    height: 128px;
+
+}
+
+.pra-4 {
+    height: 141px;
+    width: 570px;
+}
+
+.a {
+    font: bold;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 18px;
+    color: #1F1E17;
+}
+
+.icon-1 {
+    height: 16px;
+    padding-right: 11px;
+
+}
+
+button {
+    height: 60px;
+    width: 196.31px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #4BAF47;
+    color: #FFFFFF;
+    font-size: 14px;
+    font: bold;
+}
+
+.img-1 {
+    height: 601px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.img-2 {
+    height: 321px;
+    width: 290px;
+    border-radius: 10px;
+    margin-top: 280px;
+    margin-right: -170px;
+    display: inline-block;
+    position: relative;
+}
+
+.img-3 {
+    height: 100px;
+    width: 100px;
+    margin-top: 221px;
+    margin-right: -155px;
+}
+
+.img {
+    width: 600px;
+    height: 603px;
+    display: flex;
+}
+
+.eco {
+    height: 400px;
+    width: 100%;
+    margin: 7.5px;
+    margin-top: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.nav {
+    display: flex;
+    position: sticky;
+    background-color: #1F1E17;
+    width: 100%;
+    height: 184px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    margin-top: -4px;
+}
+
+.nav-link {
+    color: #A5A49A;
+    margin-top: 70px;
+    width: 300px;
+    height: 37px;
+}
+
+.nav-link:hover {
+    color: #EEC044;
+}
+
+.customer {
+    width: 100%;
+    margin-top: 50px;
+    height: 661.59px;
+    background: #F8F7F0;
+    margin-bottom: 70px;
+    
+
+}
+
+.T {
+    font-family: "Covered By Your Grace", cursive;
+    font-style: normal;
+    color: #EEC044;
+    font-size: 24px;
+    width: 129.15px;
+    white-space: nowrap;
+    padding-top: 113px;
+    margin-left: 600px;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: "Manrope", sans-serif;
+    font: bolder;
+    width: 417.2px;
+    height: 57.6px;
+    margin-top: 35.7px;
+    margin-left: 500px;
+    white-space: nowrap;
+}
+
+.car {
+    height: 285px;
+    width: 500px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 30px;
+
+
+
+}
+
+.fluid {
+    margin-left: -65px;
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 183px;
+    width: 140px;
+}
+
+.text-1 {
+    margin-top: -190px;
+    margin-left: 100px;
+    padding-left: 30px;
+    color: #878680;
+
+}
+
+.text-2 {
+    padding-top: 50px;
+    color: #878680;
+    text-align: justify;
+    width: 328.79px;
+    height: 144px;
+    margin-left: 130px;
+    margin-top: -240px;
+    position: relative;
+}
+
+
+
+
+
+
+.card-title {
+    text-align: end;
+    padding-right: 90px;
+
+}
+
+.ard-text {
+    text-align: end;
+    color: #878680;
+    padding-right: 90px;
+}
+
+.--- {
+
+    height: 1px;
+    width: 98px;
+    font-size: 22.62px;
+    color: #EEC044;
+    margin-left: 130px;
+    letter-spacing: 5px;
+    margin-top: -55px;
+
+
+}
+
+
+.-- {
+    height: 50px;
+    width: 50px;
+    background-color: #4BAF47;
+    text-align: center;
+    padding-top: 8px;
+    color: #EEC044;
+    font-size: 22.62px;
+    letter-spacing: 5px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: -115px;
+    margin-left: 50px;
+}
+
+.m {
+    height: 50px;
+    width: 50px;
+    background-color: #4BAF47;
+    text-align: center;
+    padding-top: 8px;
+    color: #EEC044;
+    font-size: 22.62px;
+    letter-spacing: 5px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 50px;
+
+}
+
+
+.card {
+    margin-left: 725px;
+    height: 285px;
+    width: 500px;
+    display: flex;
+    background: #FFFFFF;
+    position: absolute;
+    border-radius: 10px;
+    margin-top: 30px;
+    border-style: none;
+
+}
+
+.review {
+    display: flex;
+
+
+}

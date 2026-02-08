@@ -1,0 +1,66 @@
+img-1 {
+    height: 300px;
+    width: 370px;
+}
+
+.praduction {
+    height: 1058px;
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+.date {
+    background-color: #4BAF47;
+    color: #FFFFFF;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin-left: 117.62px;
+    margin-top: -10px;
+
+}
+
+.praduction-1 {
+    margin-top: 100px;
+    margin-left: 5%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.comment {
+    display: flex;
+    gap: 10px;
+    margin-left: 59.5px;
+
+}
+
+.icon {
+    height: 20px;
+    width: 12.59px;
+    margin-left: 1px;
+    margin-top: 1px;
+}
+
+.a {
+    color: #878680;
+    font-size: 14px;
+}
+
+.title {
+    text-align: center;
+    height: 108px;
+    font-size: 26px;
+    font: bold;
+
+}
+
+.praduction-2 {
+    margin-top: 20px;
+    margin-left: 5%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}

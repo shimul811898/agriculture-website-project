@@ -1,0 +1,191 @@
+.header-img {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+.prodect-1 {
+  display: flex;
+  gap: 20px;
+  border-radius: 10px;
+
+
+}
+
+.prodect {
+  width: 870px;
+  height: 1365.42px;
+  margin-left: 394px;
+  margin-right: 394px;
+  margin-bottom: 80px;
+  margin-top: 150px;
+}
+
+
+.product-price {
+  color: #4BAF47;
+  font: bold;
+  height: 28px;
+  width: 56.26px;
+  margin-top: -30px;
+}
+
+
+
+
+.star {
+  width: 100px;
+  height: 17px;
+  margin-left: 169.97px;
+  margin-top: -50px;
+
+}
+
+.prodect-2 {
+  margin-top: 200px;
+  display: flex;
+  gap: 20px;
+  border-radius: 10px;
+
+}
+
+
+.prodect-3 {
+  margin-top: 200px;
+  display: flex;
+  gap: 20px;
+  border-radius: 10px;
+
+}
+
+.showing {
+  color: #878680;
+  height: 33.75px;
+  width: 206.99px;
+  margin-top: 25px;
+
+}
+
+.show {
+  display: flex;
+
+
+}
+
+.Default {
+  width: 270px;
+  height: 70px;
+  border-color: #ECE7E2;
+  color: #878680;
+  margin-bottom: 20px;
+  border-radius: 7px;
+  margin-left: 375px;
+
+}
+
+button {
+  height: 40px;
+  width: 40px;
+  background-color: #4BAF47;
+  margin-top: 200px;
+  border-radius: 10px;
+  border-style: none;
+  color: white;
+
+}
+
+.click {
+  margin-left: 382px;
+}
+
+
+.main {
+  height: 1365.42px;
+  width: 270px;
+  margin-top: -1360px;
+  margin-left: -300px;
+}
+
+.search {
+  height: 76px;
+  width: 270px;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #EEC044;
+  color: #FFFFFF;
+  border-style: none;
+
+
+}
+
+input::placeholder {
+  color: #FFFFFF;
+}
+
+.form-range {
+
+  width: 200px;
+}
+
+.range {
+  height: 168px;
+  width: 270px;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 15px;
+  border-color: #878680;
+  border-style: soli;
+  border: width 0.2em;
+  background-color: rgba(241, 240, 241, 0.467);
+
+}
+
+.range-batton {
+  margin-top: -94px;
+  width: 78.41px;
+  height: 40px;
+  margin-left: 160.59px;
+  border-radius: 5px;
+}
+
+
+
+.btn-dropdown-toggle {
+  border-style: none;
+  width: 230px;
+  background-color: rgba(241, 240, 241, 0.467);
+  color: black;
+  font-family: bold;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-left: 25px;
+  position: absolute;
+  text-align: left;
+
+
+
+}
+
+.dropdown {
+  width: 270px;
+  height: 305px;
+  border-style: solid;
+  margin-top: 20px;
+  background-color: rgba(241, 240, 241, 0.467);
+  border-style: none;
+  border-radius: 5px;
+}
+
+.dropdown-item {
+  white-space: pre-wrap;
+  background-color: rgba(241, 240, 241, 0.467);
+  border-style: none;
+  color: #878680;
+}
+
+.dropdown-menu {
+  white-space: unset;
+  background-color: rgba(241, 240, 241, 0.467);
+  border-style: none;
+  width: 230px;
+
+}
